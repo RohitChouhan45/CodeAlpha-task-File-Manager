@@ -1,6 +1,6 @@
 # CPP-File_Explorer
 
-https://paraspathak.github.io/CPP-File_Explorer/
+https://github.com/RohitChouhan45/File-Manager
 
 Fully functional C++ file explorer with GUI made using GTKMM
 
